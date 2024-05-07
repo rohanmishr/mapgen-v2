@@ -1,1 +1,1 @@
-# wave-function-collapse
+# mapgen v2
